@@ -7,6 +7,7 @@
 * validação de dados recebidos em requisições a api 
 * conceitos de desenvolvimento mobile
 * consumir api's externas no front-end (nesse caso a api do IBGE que retorna cidades e estados)
+* principais conceitos e introdução ao typeScript
 
 ![](initialScreen.png)
 
