@@ -8,4 +8,4 @@
 * conceitos de desenvolvimento mobile
 * consumir api's externas no front-end (nesse caso a api do IBGE que retorna cidades e estados)
 
-<img src="">
+<img src="./initialScreen" alt="tela inicial da aplicação">
